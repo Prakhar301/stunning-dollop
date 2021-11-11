@@ -1,0 +1,11 @@
+h2{
+    margin: 0;
+    width:100%;
+    border-radius: 0px !important;
+}
+body{
+    background-size: contain;
+}
+canvas{
+    background-color: chocolate;
+}
